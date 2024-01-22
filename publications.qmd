@@ -1,0 +1,75 @@
+---
+title: "Publications"
+format:
+  html:
+    toc: true
+    toc-location: left
+engine: knitr
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      href: https://twitter.com/tmoreperez
+    - icon: linkedin
+      href: https://www.linkedin.com/in/timothymperez/
+    - icon: github
+      href: https://github.com/tmoreperez
+---
+
+```{css, echo = FALSE}
+.justify {
+  text-align: justify !important
+}
+```
+
+::: justify
+### Publications
+
+Follow [this link to view my Google Scholar profile](https://scholar.google.co.uk/citations?hl=en&pli=1&user=aLlJm_MAAAAJ).
+
+#### 2023
+
+T.M. Perez, J.E.G. Andino, G. Rivas-Torres, and K.J. Feeley. 2023. **Climate Constrains Photosynthetic Strategies in Darwin's Daisies: A Test of the Climatic Variability and Jack-of-All-Trades Hypotheses.** *The American Naturalist*. https://doi.org/10.1086/721957.\[[pdf](https://github.com/tmoreperez/pdfs/blob/main/Perez.etal.2023.Climate%20Constrains%20Photosynthetic%20Strategies%20in%20Darwin%E2%80%99sDaisies-%20A%20Test%20of%20the%20Climatic%20Variabilityand%20Jack-of-All-Trades%20Hypotheses.jpg.pdf)\]
+
+#### 2022
+
+Hernández, G, O. Vargas, T.M. Perez, W.J. Kress, R. Molina-Bravo, R. Cordero, J. Seemann, & C. Garcia-Robledo. 2022. **Evolutionary history and local adaptation constrain thermal responses of native and exotic Zingiberales**. *Functional Ecology*. https://doi.org/10.1111/1365-2435.14191.\[[pdf](https://github.com/tmoreperez/pdfs/commit/cf446450e7bc8c229f982f8b3a71e2421aef9586)\]
+
+#### 2021
+
+Perez, T.M., K.J. Feeley, S.T. Michaletz, and M.Slot. 2021. **Methods matter for assessing global variation in plant thermal tolerance**. *PNAS*. https://www.pnas.org/doi/full/10.1073/pnas.2024636118.\[[pdf](https://github.com/tmoreperez/pdfs/blob/main/Perez%20et%20al.%20-%202021%20-%20Methods%20matter%20for%20assessing%20global%20variation%20in%20plant%20thermal%20tolerance.pdf)\]
+
+Perez, T.M., A. Socha, O. Tserej, & K.J. Feeley. 2021. **Photosystem II heat tolerances characterize thermal generalists and the upper limit of carbon assimilation.** *Plant Cell and Environment*. https://doi.org/10.1111/pce.13990.\[[pdf](https://github.com/tmoreperez/pdfs/blob/main/Perez%20et%20al.%20-%202021%20-%20Photosystem%20II%20heat%20tolerances%20characterize%20thermal%20generalists%20and%20the%20upper%20limit%20of%20carbon%20assimilation.pdf)\]
+
+#### 2020
+
+Perez T.M., J. Rodriguez§, & J.M Heberling. 2020. **Herbarium-based measurements reliably estimate three functional traits**. *American Journal of Botany.* 10.1002/ajb2.1535. \[[pdf](https://github.com/tmoreperez/pdfs/blob/main/Perez.etal.2020.Herbarium-based%20measurements%20reliably%20estimate%20three%20functional%20traits.pdf)\]
+
+Perez T.M. and K.J. Feeley. 2021. **Weak phylogenetic and climatic constraints on plant heat tolerances**. *Journal of Biogeography.* 48: 91-100. https://doi.org/10.1111/jbi.13984. \[[pdf](https://github.com/tmoreperez/pdfs/blob/main/Perez.and.Feeley.2021.Weak%20phylogenetic%20and%20signal.pdf)\]
+
+Perez T.M. and K.J. Feeley. 2020. **Photosynthetic heat tolerances and extreme leaf temperatures.** *Functional Ecology.* 10.1111/1365-2435.13658. \[[pdf](https://github.com/tmoreperez/pdfs/blob/main/Perez%26Feeley.2020.Functional.Ecology.pdf)\]
+
+Feeley, K. J., C. Bravo, B. Fadrique, T. M. Perez, & D. Zuleta. 2020. **Climate-driven changes in the composition of New World plant communities**. *Nature Climate Change.* doi: 10.1038/s41558-020-0873-2. \[[pdf](https://github.com/tmoreperez/pdfs/blob/main/Feeley.etal.2020.Nature.Climate.Change.pdf)\[
+
+Feeley, K.J., J. Martinez-Villa, T.M. Perez, A. Silva Duque, D. Trivino Gonzalez, & A. Duque. 2020. **The thermal tolerances, distributions, and performances of tropical montane tree species in northern Colombia.** *Frontiers in Forests and Global Change.* doi: 10.3389/ffgc.2020.00025. \[[pdf](https://github.com/tmoreperez/pdfs/blob/main/Feeley%20et%20al.%20-%202020%20-%20The%20thermal%20tolerances%2Cdistributions%20%2Cand%20performances%20of%20tropical%20montane%20tree%20species.pdf)\]
+
+Subedi, S. C., K. R. Bhattarai, T.M. Perez, & Sah, J. P. 2020. **Frontiers of Biogeography Gymnosperm species richness patterns along the elevational gradient and its comparison with other plant taxonomic groups in the Himalayas**. *Frontiers in Biogeography*, 1--14. https://doi.org/10.21425/F5FBG44232. \[[pdf](https://github.com/tmoreperez/pdfs/blob/main/Subedietal.2020-GymnospermsrichnessalongelevationalgradientsinHimalayas.pdf)\]
+
+#### 2019
+
+Perez, T.M. et al., 2019. **Botanic gardens are an untapped resource for studying the functional ecology of tropical plants.** *Philos. Trans. R. Soc. Lond. B. Biol. Sci.* 374. doi: 10.1098/rstb.2017.0390. \[[pdf](https://github.com/tmoreperez/pdfs/blob/main/Perez%20et%20al.%20-%202019%20-%20Botanic%20gardens%20are%20an%20untapped%20resource%20for%20studying%20the%20functional%20ecology%20of%20tropical%20plants.pdf)\]
+
+#### 2018
+
+Perez, T.M. & K. J. Feeley. 2018. **Increasing humidity threatens tropical forests.** F**ront. Ecol. Evol.** 6, 1--2. \[[pdf](https://github.com/tmoreperez/pdfs/blob/main/Perez%20and%20feeley.2018.humidty%20threatens%20tropics.pdf)\]
+
+Perez, T. M. & J. A. Hogan. 2018. **The changing nature of collaboration in tropical ecology and conservation.** *Biotropica*. 50, 563--567. \[[pdf](https://github.com/tmoreperez/pdfs/blob/main/Perez%20-%202018%20-%20The%20changing%20nature%20of%20collaboration%20in%20tropical%20ecology%20and%20conservation.pdf)\]
+
+#### 2017
+
+Feeley, K.J., J.T. Stroud, & T.M. Perez. 2017. **Global climate change reviews Aren't truly global**. *Diversity and Distributions.* doi: 10.1111/ddi.12517. \[[pdf](https://github.com/tmoreperez/pdfs/blob/main/Perez%2C%20Stroud%2C%20Feeley%20-%202016%20-%20Thermal%20trouble%20in%20the%20tropics.pdf)\]
+
+#### 2016
+
+Perez, T.M., J.T. Stroud, & K.J. Feeley. 2016. **Thermal trouble in the tropics**. *Science*. 351: 1392-1393. \[[pdf](https://github.com/tmoreperez/pdfs/blob/main/Perez%2C%20Stroud%2C%20Feeley%20-%202016%20-%20Thermal%20trouble%20in%20the%20tropics.pdf)\]
+:::

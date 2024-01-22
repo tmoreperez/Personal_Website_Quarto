@@ -1,0 +1,15 @@
+---
+title: "422"
+author: "Timothy Perez"
+date: "2024-01-21"
+categories: [misc]
+image: "Sunshine_Coast.jpeg"
+---
+
+![](Sunshine_Coast.jpeg)
+
+::: justify
+This first blog post is mostly intended as a test... but as long as I'm here, I might as well explain why it's called "422". This name is relatively arbitrary, I came up with it about 10 minutes ago, and it's probably taking me longer to write this post than it did to come up with the name. However, this name is probably more symbolic than I intended. 422 signifies the average CO\~2\~ concentration recorded over the course of the day at the the Mauna Loa Observatory in Hawaii on January 20, 2024 - and is the most recent recording relative to the creation of this post. The Mauna Loa Observatory is the perhaps the original bellwether of climate change, and since this blog will track my trajectory through climate change science, industry, and data analysis, the name "422" seems apt.
+
+In case you were wondering, no, the image above is not from Hawaii. it is from the top of Mt Steele in British Columbia on the Sunshine Coast looking northwest across the Salish Sea to Vancouver Island in July, 2022.
+:::

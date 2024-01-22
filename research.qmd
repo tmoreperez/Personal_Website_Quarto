@@ -1,0 +1,49 @@
+---
+title: "Research"
+image: profile.jpg
+format:
+  html:
+    toc: true
+    toc-location: left
+engine: knitr
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/tmoreperez
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/timothymperez/
+    - icon: github
+      text: Github
+      href: https://github.com/tmoreperez
+---
+
+```{css, echo = FALSE}
+.justify {
+  text-align: justify !important
+}
+```
+
+::: justify
+### Research ***(under construction)***
+
+My research interests can be categorized into three main areas that are described below.
+
+#### Climate Change
+
+Anthropogenic climate change is a complex process that is partially characterized by increasing climatic temperatures and increasing climatic variability. Furthermore, climate change is occurring at a pace that is unprecedented in Earth's history. The short-term and long-term consequences of climate change on plants are unclear. I'm interested in understanding how climate change will influence the physiological functions of plants and these functions translate to broader patterns in plant ecology.
+
+#### Ecophysiology
+
+Ecophysiology is the study of the interrelationship between physiological processes the environment. Plant ecophysiology is a broad discipline, and my research interests currently focus on understanding how plants respond to and cope with variation in temperature. More specifically, I am interested in understanding how temperatures influence photosynthesis.
+
+Photosynthesis is an essential metabolic process for most plants, and is important for everything from predicting plant growth, survival, and reproduction to ecosystem services like carbon sequestration. Understanding the effects of temperature on photosynthesis is fundamental for understanding broader patterns in ecology and evolution including predicting how plants will respond to climate change.
+
+#### Biogeography
+
+Biogeography is the study of the geographic and temporal distributions of life. Biogeographic information can help us understand species' adaptations and their evolutionary histories. In recent years, a wealth of plant biogeographic data - largely from digitized herbarium specimens - has become publicly available. Coupled with macro- and microclimate data, this biogeographic data has been particularly valuable for understanding how plants are shifting their distributions in response to climate change.
+
+As plants shift their distributions, plant communities can become altered. These alterations may include changes in community diversity and to ecosystem services like carbon storage. A goal of my research is to understand patterns in plant biogeography in order to predict about how climate change will alter plant communities and inform conservation decisions.
+:::

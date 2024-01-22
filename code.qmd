@@ -1,0 +1,33 @@
+---
+title: "Code"
+image: profile.jpg
+format:
+  html:
+    toc: true
+    toc-location: left
+engine: knitr
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/tmoreperez
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/timothymperez/
+    - icon: github
+      text: Github
+      href: https://github.com/tmoreperez
+---
+
+```{css, echo = FALSE}
+.justify {
+  text-align: justify !important
+}
+```
+
+::: justify
+### Code
+
+Coming soon... I am currently transferring the contents from my previous website to this website. Check back soon for updates, but for now, please feel free to visit my [github page](https://github.com/tmoreperez).
+:::
