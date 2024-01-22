@@ -1,6 +1,5 @@
 ---
 title: "Research"
-image: profile.jpg
 format:
   html:
     toc: true
