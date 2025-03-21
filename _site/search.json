@@ -53,6 +53,6 @@
     "href": "Tree_Finder.html",
     "title": "Tree Finder",
     "section": "",
-    "text": "Use the interactive Tree Finder tool below to identify tree species your area. Entering the latitude and longitude of your location, or click on the map the populate the latitude and longitude before clicking “Find Species”. You can also zoom to a zip code to find then click the map to find trees in that area. Note: This is only for North America\nThe output is a list of all the the “tree” species with ranges that are likely to overlap with that point.\nI’d love to hear your feedback. Let me know if this is useful for you and how it could be improved!"
+    "text": "Use the interactive Tree Finder tool below to identify tree species your area. Entering the latitude and longitude of your location, or click on the map the populate the latitude and longitude before clicking “Find Species”. You can also zoom to a zip code to find then click the map to find trees in that area. Note: This is only for North America\nThe output is a list of all the the “tree” species with ranges that are likely to overlap with your selection.\nI’d love to hear your feedback. Let me know if this is useful for you, how it could be improved, or to learn more."
   }
 ]
