@@ -10,7 +10,7 @@ format: html
 The output is a list of all the the "tree" species with ranges that are
 likely to overlap with that point.
 
-I'd love to hear your feedback. Let me if this is useful for and or how it could be improved!
+I'd love to hear your feedback. Let me if this is useful for you and how it could be improved!
 
 🌳
 
