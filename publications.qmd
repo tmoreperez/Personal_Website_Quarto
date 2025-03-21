@@ -8,8 +8,6 @@ engine: knitr
 about:
   template: jolla
   links:
-    - icon: twitter
-      href: https://twitter.com/tmoreperez
     - icon: linkedin
       href: https://www.linkedin.com/in/timothymperez/
     - icon: github

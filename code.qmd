@@ -9,9 +9,6 @@ engine: knitr
 about:
   template: jolla
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/tmoreperez
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/timothymperez/
