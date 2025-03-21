@@ -3,15 +3,16 @@ title: "Tree Finder"
 format: html
 ---
 
-# 🌳 TreeFinder
+# 
 
-Use the interactive Tree Finder tool below to identify tree species likely to a occur in a location you select by entering by latitude and longitude location.
-Click on the map the populate the latitude and longitude before clicking "Find Trees". The output is a list of all the the "tree" species with ranges that are
+🌳 Use the interactive Tree Finder tool below to identify tree species your area. Entering the latitude and longitude of your location, or click on the map the populate the latitude and longitude before clicking "Find Trees". You can also zoom to a zip code to find then click the map to find trees in that area. Note: This is only for North America
+
+The output is a list of all the the "tree" species with ranges that are
 likely to overlap with that point.
 
-Note, this is only for North America
+I'd love to hear your feedback. Let me if this is useful for and or how it could be improved!
 
-I'd love to heat your feedback. Let me if this is useful for and or how it could be improved!
+🌳
 
 <iframe 
     src="https://nameless-meadow-06017-9ee2b7316d7a.herokuapp.com/" 
